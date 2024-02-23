@@ -1,0 +1,37 @@
+*{
+    background-color: coral;
+    
+     
+
+}
+h1{
+    color: azure;
+    background-color: black;
+
+    align-items: center;
+    text-align: center;
+    margin: 30px;
+    grid-row: auto;
+
+}
+
+
+p{
+    background-color: azure;
+    text-align: center;
+    font-size: 23px;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p:hover{
+
+    cursor: pointer;
+    
+}
+p>a{
+    color: black;
+    font-weight: bolder;
+    list-style-type: decimal;
+}
+
