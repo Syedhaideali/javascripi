@@ -1,3 +1,5 @@
+
+ document.write( question num 1)
 var english =80
 var urdu = 90
 
@@ -91,16 +93,7 @@ console.log("sum of 550 and 3 in " + eng );
     document.write("<p>Total Marks: " + totalMarks + "</p>");
     document.write("<p>Marks Obtained: " + marksObtained + "</p>");
     document.write("<p>Percentage: " + percentage.toFixed(2) + "%</p>");
-      
 
 
 
-    
-    //Example usage:
-    var age = 25; // Age in years
-    var amountPerDay = 2; // Average amount consumed per day
-    var maxAge = 80; // Estimated maximum age
-    
-    var lifetimeSupply = calculateLifetimeSupply(age, amountPerDay, maxAge);
-    console.log("You will need " + lifetimeSupply + " units of your favorite snack to last you until the age of " + maxAge + ".");
     
